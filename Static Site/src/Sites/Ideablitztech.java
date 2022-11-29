@@ -295,7 +295,7 @@ public class Ideablitztech {
 		end=System.currentTimeMillis();
 		long total=end-start;
 		System.out.println("Total running time: " + total);
-		driver.quit();
+		
 		
 		
 
