@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="14" passed="14">
+  <reporter-output>
+  </reporter-output>
+  <suite name="TestingSuite" duration-ms="91863" started-at="2022-11-29T07:14:07Z" finished-at="2022-11-29T07:15:39Z">
+    <groups>
+    </groups>
+    <test name="Test1" duration-ms="44633" started-at="2022-11-29T07:14:07Z" finished-at="2022-11-29T07:14:52Z">
+      <class name="Sites.Ideablitztech">
+        <test-method status="PASS" signature="HomePageUrl()[pri:0, instance:Sites.Ideablitztech@d2cc05a]" name="HomePageUrl" duration-ms="22343" started-at="2022-11-29T07:14:07Z" finished-at="2022-11-29T07:14:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomePageUrl -->
+        <test-method status="PASS" signature="HomePageLogoLink()[pri:1, instance:Sites.Ideablitztech@d2cc05a]" name="HomePageLogoLink" duration-ms="2117" started-at="2022-11-29T07:14:30Z" finished-at="2022-11-29T07:14:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomePageLogoLink -->
+        <test-method status="PASS" signature="HomePageSideLinks()[pri:2, instance:Sites.Ideablitztech@d2cc05a]" name="HomePageSideLinks" duration-ms="1202" started-at="2022-11-29T07:14:32Z" finished-at="2022-11-29T07:14:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomePageSideLinks -->
+        <test-method status="PASS" signature="Whatsapplink()[pri:3, instance:Sites.Ideablitztech@d2cc05a]" name="Whatsapplink" duration-ms="3301" started-at="2022-11-29T07:14:33Z" finished-at="2022-11-29T07:14:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Whatsapplink -->
+        <test-method status="PASS" signature="Formchecking()[pri:4, instance:Sites.Ideablitztech@d2cc05a]" name="Formchecking" duration-ms="2702" started-at="2022-11-29T07:14:36Z" finished-at="2022-11-29T07:14:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Formchecking -->
+        <test-method status="PASS" signature="Facebook()[pri:5, instance:Sites.Ideablitztech@d2cc05a]" name="Facebook" duration-ms="2304" started-at="2022-11-29T07:14:39Z" finished-at="2022-11-29T07:14:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Facebook -->
+        <test-method status="PASS" signature="Instagram()[pri:6, instance:Sites.Ideablitztech@d2cc05a]" name="Instagram" duration-ms="7830" started-at="2022-11-29T07:14:41Z" finished-at="2022-11-29T07:14:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Instagram -->
+        <test-method status="PASS" signature="LinkedIn()[pri:7, instance:Sites.Ideablitztech@d2cc05a]" name="LinkedIn" duration-ms="2772" started-at="2022-11-29T07:14:49Z" finished-at="2022-11-29T07:14:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LinkedIn -->
+      </class> <!-- Sites.Ideablitztech -->
+    </test> <!-- Test1 -->
+    <test name="Test 2" duration-ms="47159" started-at="2022-11-29T07:14:52Z" finished-at="2022-11-29T07:15:39Z">
+      <class name="Sites.Ideablitztech">
+        <test-method status="PASS" signature="Openchrome()[pri:0, instance:Sites.Ideablitztech@d2cc05a]" name="Openchrome" is-config="true" duration-ms="7466" started-at="2022-11-29T07:13:58Z" finished-at="2022-11-29T07:14:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Openchrome -->
+        <test-method status="PASS" signature="OpenChrome()[pri:0, instance:Sites.Bharathlab@523884b2]" name="OpenChrome" is-config="true" duration-ms="1956" started-at="2022-11-29T07:14:05Z" finished-at="2022-11-29T07:14:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenChrome -->
+        <test-method status="PASS" signature="time()[pri:0, instance:Sites.Ideablitztech@d2cc05a]" name="time" is-config="true" duration-ms="1970" started-at="2022-11-29T07:15:39Z" finished-at="2022-11-29T07:15:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- time -->
+        <test-method status="PASS" signature="quitbrower()[pri:0, instance:Sites.Bharathlab@523884b2]" name="quitbrower" is-config="true" duration-ms="1263" started-at="2022-11-29T07:15:41Z" finished-at="2022-11-29T07:15:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitbrower -->
+      </class> <!-- Sites.Ideablitztech -->
+      <class name="Sites.Bharathlab">
+        <test-method status="PASS" signature="HomePageLink()[pri:0, instance:Sites.Bharathlab@523884b2]" name="HomePageLink" duration-ms="12797" started-at="2022-11-29T07:14:52Z" finished-at="2022-11-29T07:15:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomePageLink -->
+        <test-method status="PASS" signature="HomePaglogolink()[pri:1, instance:Sites.Bharathlab@523884b2]" name="HomePaglogolink" duration-ms="2360" started-at="2022-11-29T07:15:05Z" finished-at="2022-11-29T07:15:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomePaglogolink -->
+        <test-method status="PASS" signature="HomePageHeaderLink()[pri:3, instance:Sites.Bharathlab@523884b2]" name="HomePageHeaderLink" duration-ms="6963" started-at="2022-11-29T07:15:07Z" finished-at="2022-11-29T07:15:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomePageHeaderLink -->
+        <test-method status="PASS" signature="QuickLinks()[pri:4, instance:Sites.Bharathlab@523884b2]" name="QuickLinks" duration-ms="2987" started-at="2022-11-29T07:15:14Z" finished-at="2022-11-29T07:15:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- QuickLinks -->
+        <test-method status="PASS" signature="ServicesLinks()[pri:5, instance:Sites.Bharathlab@523884b2]" name="ServicesLinks" duration-ms="18914" started-at="2022-11-29T07:15:17Z" finished-at="2022-11-29T07:15:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ServicesLinks -->
+        <test-method status="PASS" signature="GetInTouch()[pri:6, instance:Sites.Bharathlab@523884b2]" name="GetInTouch" duration-ms="3087" started-at="2022-11-29T07:15:36Z" finished-at="2022-11-29T07:15:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetInTouch -->
+      </class> <!-- Sites.Bharathlab -->
+    </test> <!-- Test 2 -->
+  </suite> <!-- TestingSuite -->
+</testng-results>

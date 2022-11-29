@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [TestingSuite]">
+  <test thread-count="5" name="Test 2(failed)">
+    <classes>
+      <class name="Sites.Bharathlab">
+        <methods>
+          <include name="HomePageLink"/>
+          <include name="OpenChrome"/>
+          <include name="quitbrower"/>
+        </methods>
+      </class> <!-- Sites.Bharathlab -->
+    </classes>
+  </test> <!-- Test 2(failed) -->
+</suite> <!-- Failed suite [TestingSuite] -->
